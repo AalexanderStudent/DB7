@@ -160,24 +160,3 @@ namespace Database_7
         }
     }
 }
-
-// buttons uppercase? --
-// function with _ - wrong \/
-// exception handling \/
-// previous \/
-// next are done, right \/
-// text boxes names \/
-// parsing datetime \/
-// inline + wherefaculty \/
-// if select empty
-// success messages / check with data in the fields
-// success even when exception
-// add exit
-// delete with none corresponding to where - no message
-// - is excessive if it is after space
-// finish form6. It is not finished
-// date and time conversion exceptions in Form6
-// add "back" on Task1... 
-// copy new queries back in lab6
-    // " Для определения наличия в БД соответствующих запросов использовать выборку из таблицы MSysObjects. "
-    // add checks accordingly
